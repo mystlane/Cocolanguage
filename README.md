@@ -12,5 +12,5 @@ Although CocoLanguage currently offers a limited range of words, the developer i
 
 ### Figma Prototype
 
-We've created a prototype for our project using Figma to demonstrate the user interface and interactions. You can explore the prototype by following this link: [Figma Prototype]()
+We've created a prototype for our project using Figma to demonstrate the user interface and interactions. You can explore the prototype by following this link: [Figma Prototype](https://www.figma.com/file/7IMwIYTQmUtfQDATraSouq/Cocolanguage?type=design&node-id=8-51&mode=design&t=8b3MUOaZFbVe21iO-0)
 Feel free to click around and preview how the website works. If you have any feedback or suggestions, please don't hesitate to [reach out](mailto:lalaineperez413@gmail.com)! 
